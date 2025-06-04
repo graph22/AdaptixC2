@@ -45,6 +45,7 @@ Official [Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) on 
 * HTTP/S Beacon Listener 
 * SMB Beacon Listener
 * TCP Beacon Listener
+* DNS Beacon Listener
 * Beacon Agent
 * TCP/mTLS Gopher Listener
 * Gopher Agent
